@@ -1,3 +1,5 @@
+# OLD: Please use https://github.com/TheFrontier/SKE
+
 # Solace [![Release](https://jitpack.io/v/xDotDash/Solace.svg)](https://jitpack.io/#xDotDash/Solace) [![](https://jitpack.io/v/xDotDash/Solace/month.svg)](https://jitpack.io/#xDotDash/Solace)
 
 A Kotlin extension library for the Sponge ecosystem.
